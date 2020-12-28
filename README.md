@@ -4,6 +4,6 @@ Overview EE/CS120A introduces you to the exciting world of digital design. Digit
 
 Using Xilinx and a Spartan FPGA for designing hardware code. 
 
-**FAll2019**
+# **FALL2019** #
 ### Student: Darrien Gunn 
 ### Instructor: Chase Cook
