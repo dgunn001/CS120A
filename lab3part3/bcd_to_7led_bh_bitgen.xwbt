@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\CS\CS120 Labs\lab3part3\bcd_to_7led_bh.ncd
+OUTFILE=C:\CS\CS120 Labs\lab3part3\bcd_to_7led_bh.bit
+FAMILY=Spartan3E
+PART=xc3s100e-5cp132
+WORKINGDIR=C:\CS\CS120 Labs\lab3part3
+LICENSE=WebPack
+USER_INFO=211716058_0_0_975

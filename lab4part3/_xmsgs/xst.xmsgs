@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="1989" delta="old" >Unit &lt;<arg fmt="%s" index="1">dispmux_main_bh</arg>&gt;: instances &lt;<arg fmt="%s" index="2">c1</arg>&gt;, &lt;<arg fmt="%s" index="3">c2</arg>&gt; of unit &lt;<arg fmt="%s" index="4">bcd_to_7led_bh</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="old" >Unit &lt;<arg fmt="%s" index="1">dispmux_main_bh</arg>&gt;: instances &lt;<arg fmt="%s" index="2">c1</arg>&gt;, &lt;<arg fmt="%s" index="3">c3</arg>&gt; of unit &lt;<arg fmt="%s" index="4">bcd_to_7led_bh</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="old" >Unit &lt;<arg fmt="%s" index="1">dispmux_main_bh</arg>&gt;: instances &lt;<arg fmt="%s" index="2">c1</arg>&gt;, &lt;<arg fmt="%s" index="3">c4</arg>&gt; of unit &lt;<arg fmt="%s" index="4">bcd_to_7led_bh</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c5/r_qreg_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">dispmux_main_bh</arg>&gt;.
+</msg>
+
+</messages>
+

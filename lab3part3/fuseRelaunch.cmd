@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/CS/CS120 Labs/lab3part3/bcd_to_7led_bh_isim_beh.exe" -prj "C:/CS/CS120 Labs/lab3part3/bcd_to_7led_bh_beh.prj" "work.bcd_to_7led_bh" "work.glbl" 

@@ -1,0 +1,3 @@
+NET "sw1" LOC = "A7";
+NET "outedge" LOC = "M5";
+NET "clk" LOC = "B8";

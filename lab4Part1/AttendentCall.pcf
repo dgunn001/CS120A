@@ -1,0 +1,12 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Wed Apr 24 19:14:25 2019
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "light_state" LOCATE = SITE "M5" LEVEL 1;
+COMP "clk" LOCATE = SITE "B8" LEVEL 1;
+COMP "cancel_button" LOCATE = SITE "C11" LEVEL 1;
+COMP "call_button" LOCATE = SITE "G12" LEVEL 1;
+NET "clk_BUFGP/IBUFG" BEL "clk_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

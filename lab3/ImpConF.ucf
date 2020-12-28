@@ -1,0 +1,6 @@
+#Pin assignment for LEDs
+NET "d" LOC = "M5"; # Bank = 3; Signal name = LD0
+
+#Pin assignment for SWs
+NET "i1" LOC = "L3"; # Bank =3, Signal name = SW1
+NET "i2" LOC = "P11"; #Bank = 2, Signal name = SW0

@@ -1,0 +1,8 @@
+#inputs
+NET "clk" LOC = "B8";
+NET "b" 	 LOC = "A7";
+
+#outputs 
+NET "light" LOC = "G1";
+NET "light2" LOC = "P4";
+NET "walk" LOC = "N4";

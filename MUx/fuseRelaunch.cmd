@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/CS/CS120 Labs/MUx/mux_tb_isim_beh.exe" -prj "C:/CS/CS120 Labs/MUx/mux_tb_beh.prj" "work.mux_tb" "work.glbl" 

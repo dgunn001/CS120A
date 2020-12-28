@@ -1,0 +1,9 @@
+MO adder NULL TrafficLight.v vlg54/adder.bin 1559185979
+MO trafficLight NULL TrafficLight.v vlg6B/traffic_light.bin 1559185979
+MO flopr NULL TrafficLight.v vlg3B/flopr.bin 1559185979
+MO fulladder_st NULL TrafficLight.v vlg61/fulladder__st.bin 1559185979
+MO timer_st NULL TrafficLight.v vlg5F/timer__st.bin 1559185979
+MO addergen_st NULL TrafficLight.v vlg0C/addergen__st.bin 1559185979
+MO bcd_to_7led_bh NULL TrafficLight.v vlg6B/bcd__to__7led__bh.bin 1559185979
+MO disp_mux_bh NULL TrafficLight.v vlg32/disp__mux__bh.bin 1559185979
+MO comparatorgen_st NULL TrafficLight.v vlg64/comparatorgen__st.bin 1559185979

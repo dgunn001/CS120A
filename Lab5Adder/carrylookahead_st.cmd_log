@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab5Adder/carrylookahead_st.xst" -ofn "C:/CS/CS120 Labs/Lab5Adder/carrylookahead_st.syr" 

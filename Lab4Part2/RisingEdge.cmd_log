@@ -1,0 +1,93 @@
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.xst" -ofn "C:/CS/CS120 Labs/Lab4Part2/RisingEdge.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc switch.ucf -p xc3s100e-cp132-5 "RisingEdge.ngc" RisingEdge.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o RisingEdge_map.ncd RisingEdge.ngd RisingEdge.pcf 
+par -w -intstyle ise -ol high -t 1 RisingEdge_map.ncd RisingEdge.ncd RisingEdge.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml RisingEdge.twx RisingEdge.ncd -o RisingEdge.twr RisingEdge.pcf -ucf switch.ucf 
+bitgen -intstyle ise -f RisingEdge.ut RisingEdge.ncd 

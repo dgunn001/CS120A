@@ -1,0 +1,100 @@
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf 
+bitgen -intstyle ise -f dispmux_main_bh.ut dispmux_main_bh.ncd 
+bitgen -intstyle ise -f dispmux_main_bh.ut dispmux_main_bh.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf 
+bitgen -intstyle ise -f dispmux_main_bh.ut dispmux_main_bh.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc mappingfile.ucf -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf -ucf mappingfile.ucf 
+bitgen -intstyle ise -f dispmux_main_bh.ut dispmux_main_bh.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc mappingfile.ucf -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf -ucf mappingfile.ucf 
+bitgen -intstyle ise -f dispmux_main_bh.ut dispmux_main_bh.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc mappingfile.ucf -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf -ucf mappingfile.ucf 
+bitgen -intstyle ise -f dispmux_main_bh.ut dispmux_main_bh.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.xst" -ofn "C:/CS/CS120 Labs/lab4part3/dispmux_main_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc mappingfile.ucf -p xc3s100e-cp132-5 "dispmux_main_bh.ngc" dispmux_main_bh.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o dispmux_main_bh_map.ncd dispmux_main_bh.ngd dispmux_main_bh.pcf 
+par -w -intstyle ise -ol high -t 1 dispmux_main_bh_map.ncd dispmux_main_bh.ncd dispmux_main_bh.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml dispmux_main_bh.twx dispmux_main_bh.ncd -o dispmux_main_bh.twr dispmux_main_bh.pcf -ucf mappingfile.ucf 
+bitgen -intstyle ise -f dispmux_main_bh.ut dispmux_main_bh.ncd 

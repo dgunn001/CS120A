@@ -1,0 +1,5 @@
+#inputs 
+NET "clk" LOC = "B8";
+NET "b" LOC = "A7";
+#outputs
+NET "light" LOC = "M5";

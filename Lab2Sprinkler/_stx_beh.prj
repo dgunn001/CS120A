@@ -1,0 +1,2 @@
+verilog isim_temp "sprinkler_circuit_tb.v"
+verilog isim_temp "D:/CS/14.7/ISE_DS/ISE//verilog/src/glbl.v"

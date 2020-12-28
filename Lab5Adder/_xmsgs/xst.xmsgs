@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompilers" num="55" delta="new" ><arg fmt="%s" index="1">&quot;Adder.v&quot; line 88 </arg>Bit-select of <arg fmt="%s" index="2">scalar wire &apos;irl&apos;</arg> is illegal
+</msg>
+
+<msg type="error" file="HDLCompilers" num="55" delta="new" ><arg fmt="%s" index="1">&quot;Adder.v&quot; line 89 </arg>Bit-select of <arg fmt="%s" index="2">scalar wire &apos;irl&apos;</arg> is illegal
+</msg>
+
+<msg type="error" file="HDLCompilers" num="55" delta="new" ><arg fmt="%s" index="1">&quot;Adder.v&quot; line 90 </arg>Bit-select of <arg fmt="%s" index="2">scalar wire &apos;irl&apos;</arg> is illegal
+</msg>
+
+</messages>
+

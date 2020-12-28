@@ -1,0 +1,21 @@
+Running: D:\CS\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/CS/CS120 Labs/lab3/and_gate_and_gate_sch_tb_isim_beh.exe -prj C:/CS/CS120 Labs/lab3/and_gate_and_gate_sch_tb_beh.prj and_gate_and_gate_sch_tb work.glbl 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/CS/CS120 Labs/lab3/and_gate.vf" into library work
+Analyzing Verilog file "C:/CS/CS120 Labs/lab3/and_gate_tb.v" into library work
+Analyzing Verilog file "D:/CS/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 181664 KB
+Fuse CPU Usage: 187 ms
+Compiling module AND2
+Compiling module and_gate
+Compiling module and_gate_and_gate_sch_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 4 Verilog Units
+Built simulation executable C:/CS/CS120 Labs/lab3/and_gate_and_gate_sch_tb_isim_beh.exe
+Fuse Memory Usage: 187352 KB
+Fuse CPU Usage: 187 ms

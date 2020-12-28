@@ -1,0 +1,234 @@
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/MiniProject/trafficLight.xst" -ofn "C:/CS/CS120 Labs/MiniProject/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 
+xst -intstyle ise -ifn "C:/CS/CS120 Labs/adding7seg/trafficLight.xst" -ofn "C:/CS/CS120 Labs/adding7seg/trafficLight.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc UCTraffic.ucf -p xc3s100e-cp132-5 "trafficLight.ngc" trafficLight.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o trafficLight_map.ncd trafficLight.ngd trafficLight.pcf 
+par -w -intstyle ise -ol high -t 1 trafficLight_map.ncd trafficLight.ncd trafficLight.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml trafficLight.twx trafficLight.ncd -o trafficLight.twr trafficLight.pcf -ucf UCTraffic.ucf 
+bitgen -intstyle ise -f trafficLight.ut trafficLight.ncd 

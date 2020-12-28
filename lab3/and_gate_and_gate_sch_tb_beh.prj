@@ -1,0 +1,3 @@
+verilog work "and_gate.vf"
+verilog work "and_gate_tb.v"
+verilog work "D:/CS/14.7/ISE_DS/ISE//verilog/src/glbl.v"
